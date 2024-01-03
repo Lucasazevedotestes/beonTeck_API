@@ -1,4 +1,4 @@
-# Challenge
+# API Challenge
 
 Hi there, please find here the required Steps to reproduce the test cases and report.
 
@@ -37,21 +37,20 @@ If the dependencies are correctly installed, the test scenarios will be executed
 
 <h3>    Please, find attached the Project Structure and Screenshots of the created code. </h3>
 
-
-<h4><center>SearchPage.js:
+<h4><center>Post and Put Methods:
 <br> </br>
 <div align="left">
-<img src="Screenshot 2024-01-03 at 5.42.24 AM.png" width="700px"/>
+<img src="Screenshot 2024-01-03 at 2.24.40 PM.png" width="700px"/>
 </div>
 
-<h4><center>validSearch.cy.js:
+<h4><center>Get Method:
 <br> </br>
 <div align="left">
-<img src="Screenshot 2024-01-03 at 5.41.21 AM.png" width="700px"/>
+<img src="Screenshot 2024-01-03 at 2.24.57 PM.png" width="700px"/>
 </div>  
 
-<h4><center>cypress.config.js:
+<h4><center>Fixture File:
 <br> </br>
 <div align="left">
-<img src="Screenshot 2024-01-03 at 5.43.19 AM.png" width="700px"/>
+<img src="Screenshot 2024-01-03 at 2.25.10 PM.png" width="700px"/>
 </div>  
